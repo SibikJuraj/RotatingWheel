@@ -10,7 +10,7 @@ namespace RotatingWheel
         {
             while (true)
             {
-                Console.Write(TocKolieskom("janko"));
+                Console.Write(TocKolieskom("jurko"));
                 Console.SetCursorPosition(0, 0);
                 Thread.Sleep(100);
             }
